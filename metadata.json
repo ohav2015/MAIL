@@ -1,0 +1,5 @@
+{
+  "name": "Israel Post Phishing Simulation",
+  "description": "A replica of the Israel Post customs payment page for a phishing simulation exercise. This page is for educational and security training purposes only.",
+  "requestFramePermissions": []
+}
